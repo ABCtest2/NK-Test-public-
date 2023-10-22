@@ -1,0 +1,46 @@
+---
+title: "COVID-19 Vaccines: Appraisal of Indirect Treatment Comparisons"
+image: "pfizer_logo.jpg"
+color1: "#0055A4"
+color2: "#0094FF"
+angle: 130
+links:
+  - label: SLR Protocol
+    url: "https://pfizer.sharepoint.com/:w:/r/sites/COVIDGVDReview/Shared Documents/General/Vaccine SLR of ITCs and QA/SLR protocol/EVG-39296_COVID-19 Vaccine ITC Appraisal_SLR Protocol_11October2023_v2.0_FINAL.docx?d=wf785c1217ed0410b84b411ef3f26c2dd&csf=1&web=1&e=0tn5ZS"
+  - label: Study Listing
+    url: "https://ppdcentral.sharepoint.com/:x:/r/sites/Covid-19ESandCommsActivitiesinternal-COVIDvaccinesNMA/Shared%20Documents/EVG-39296%20COVID%20Vx%20ITC%20Appraisal/05%20-%20Searches%20and%20Screening/c%20-%20Study%20Listing/A%20-%20Sent%20to%20Client/EVG-39296_COVID-19%20Vx%20ITC%20Appraisal_Study%20Listing_20Oct2023_v1.0.xlsx?d=w1dccdd2606eb4d29b376e38994ba546d&csf=1&web=1&e=HEvwYP"
+    - label: Data Extraction
+    - label: Summary Slides
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+# Project Overview
+Evidera and Pfizer conducted a feasibility assessment study to determine whether indirect treatment comparisons (ITC) between Comirnaty and other COVID-19 vaccines is feasible. The findings indicated that differences in key treatment effect modifiers between trials largely precluded valid analyses, specifically to Spikevax (Moderna). However, despite the recommendations to not perform such analyses, there have been several recent publications comparing Comirnaty and Spikevax.
+
+This project aimed to meet the following objectives:
+ - To systematically identify all published literature assessing the feasibility of or reporting ITC results between Comirnaty and Spikevax.
+ - To critically appraise the identified studies using the ITC/NMA study questionnaire to assess relevance and credibility to inform health care decision making (ISPOR Checklist).
+ - To compare and contrast our own feasibility assessment findings/recommendations with other published ITCs with the option to disseminate these findings.
+
+## SLR Results
+The SLR included 14 ITCs of COVID-19 vaccines. 
+      <iframe 
+        src="https://nested-knowledge.com/embed/prisma/6751" 
+        height="600px" 
+        width="1000px" 
+        frameborder="0"
+        allow="clipboard-read; clipboard-write">
+      </iframe>
+
+## Data Extraction
+      <iframe 
+        src="https://nested-knowledge.com/embed/qls/6751" 
+        height="600px" 
+        width="1000px" 
+        frameborder="0"
+        allow="clipboard-read; clipboard-write">
+      </iframe>
+    
+
+    
